@@ -7,6 +7,7 @@
 4. 浏览器访问http://localhost:8000
 
 文件目录结构:
+```
 $ tree -L 1 .
 .
 ├── data.xls
@@ -14,3 +15,4 @@ $ tree -L 1 .
 ├── FeatureExtraction.ipynb
 ├── imgs
 └── results
+```
